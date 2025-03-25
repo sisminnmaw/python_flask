@@ -55,4 +55,5 @@ npm run serve
 - Frontend development server runs on: http://localhost:8080
 
 
+![image](https://github.com/user-attachments/assets/4c9720b5-b2de-490b-8617-2df26b77adce)
 
